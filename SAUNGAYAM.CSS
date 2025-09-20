@@ -1,0 +1,32 @@
+h1{
+    background-color: rgb(7, 26, 235);
+}
+#A1{
+    color: aqua;
+    text-align: center;
+}
+
+h2{
+    background-color: blue;
+}
+
+#A2{
+    background-color: blue;
+    color: aqua;
+    text-align: center;
+}
+p{
+
+}
+#cerpen1{
+    color: aqua;
+    background-color: blue;
+}
+
+.ajg{
+    width: 800px;
+}
+#cerpen1{
+text-align: justify;
+text-align: center;
+}
